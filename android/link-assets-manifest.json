@@ -1,0 +1,133 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Akshar-Bold.ttf",
+      "sha1": "6da94e82dbb6787e310ee505bdb47c483f74e51c"
+    },
+    {
+      "path": "assets/fonts/Akshar-Light.ttf",
+      "sha1": "8f75086a58fa944c15700e8313d9cf096ae730c2"
+    },
+    {
+      "path": "assets/fonts/Akshar-Medium.ttf",
+      "sha1": "3cf9c7da2dd28e032c8e6bac3fdeac873c8d6863"
+    },
+    {
+      "path": "assets/fonts/Akshar-Regular.ttf",
+      "sha1": "e4d63f6ee16222afe1bb74200cdb1f50930845b9"
+    },
+    {
+      "path": "assets/fonts/Akshar-SemiBold.ttf",
+      "sha1": "523aad0978a688df3eb7767e24b8e735043e55a1"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Regular.ttf",
+      "sha1": "782a1cd1ec6d18739a1b2644228f498b74ed9712"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-SemiBold.ttf",
+      "sha1": "e7bc4cfc18dc995da1ee205434a97b5b04fb371f"
+    },
+    {
+      "path": "assets/fonts/AndadaPro-Bold.ttf",
+      "sha1": "33336e60f1cdbc311661e789ae61f121a00aa5c7"
+    },
+    {
+      "path": "assets/fonts/AnekGurmukhi-Light.ttf",
+      "sha1": "cf029eb4e46d6b717f6ee98840d66c4ea7381856"
+    },
+    {
+      "path": "assets/fonts/AnekGurmukhi-SemiBold.ttf",
+      "sha1": "357461ca1b7c695d854ca13968c6067a60972dca"
+    },
+    {
+      "path": "assets/fonts/IstokWeb-Bold.ttf",
+      "sha1": "07a04b93937b9df9d7bfbfb0d15593fd7e3a139a"
+    },
+    {
+      "path": "assets/fonts/Italiana-Regular.ttf",
+      "sha1": "e10f8b2b90e4e72c4f4fc2e7ddff58198756100d"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Regular.ttf",
+      "sha1": "6536e6e113fbc08c6b53ca4ce261015c462c8718"
+    },
+    {
+      "path": "assets/fonts/Kanit-Black.ttf",
+      "sha1": "7d7c545de2f02989d1f2a76849291b75f6e6b7e6"
+    },
+    {
+      "path": "assets/fonts/Kanit-BlackItalic.ttf",
+      "sha1": "57556af8831c92f61f91098bcce27f60002c6192"
+    },
+    {
+      "path": "assets/fonts/Kanit-Bold.ttf",
+      "sha1": "4d376a5447efe2ece1e3e39ff0fc2bbf3af0e5f8"
+    },
+    {
+      "path": "assets/fonts/Kanit-BoldItalic.ttf",
+      "sha1": "a515d96e8b0ae666c180ff853f07282647cce78b"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraBold.ttf",
+      "sha1": "e880d5f10a706034ca71f17c6534a3e76e1319ad"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraBoldItalic.ttf",
+      "sha1": "1505f04535bfb9ecbab2452a192d32f431a057fd"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraLight.ttf",
+      "sha1": "c948dac66c673a313a9b43294e35b73a14a0cf69"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraLightItalic.ttf",
+      "sha1": "81e72743d10d5bfbb8e6c10df63473c59f461851"
+    },
+    {
+      "path": "assets/fonts/Kanit-Italic.ttf",
+      "sha1": "d4b45fa70b71d7d3bc31ec3c09341672c660db28"
+    },
+    {
+      "path": "assets/fonts/Kanit-Light.ttf",
+      "sha1": "5f73684474721ddfc98168f5b8a634d7552e89d4"
+    },
+    {
+      "path": "assets/fonts/Kanit-LightItalic.ttf",
+      "sha1": "bfa800d600db0d72fda285fceaa2e0b5234f2faf"
+    },
+    {
+      "path": "assets/fonts/Kanit-Medium.ttf",
+      "sha1": "61ac6e618ea64ca7f4ae2444194e0bad4c72c8f9"
+    },
+    {
+      "path": "assets/fonts/Kanit-MediumItalic.ttf",
+      "sha1": "d4efe4ef0132a00a569ddcfb7bc292062fcd96ba"
+    },
+    {
+      "path": "assets/fonts/Kanit-Regular.ttf",
+      "sha1": "4d7b70e9717ae0adecc332fac9af7457063886a4"
+    },
+    {
+      "path": "assets/fonts/Kanit-SemiBold.ttf",
+      "sha1": "9715fb086966063735f84aa37f3e2dcd654ce999"
+    },
+    {
+      "path": "assets/fonts/Kanit-SemiBoldItalic.ttf",
+      "sha1": "ab47c69150c1552dc01230b7acd9423e2c3e6c47"
+    },
+    {
+      "path": "assets/fonts/Kanit-Thin.ttf",
+      "sha1": "c01a1c4d8a0cad6b8b4988b03c9c8f3dfa19242c"
+    },
+    {
+      "path": "assets/fonts/Kanit-ThinItalic.ttf",
+      "sha1": "684a356c889f48a71ca6220d2e4d86fd884f917a"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "fcb74ca25011cdcb8ee7b3aba681b40f8cfd7b05"
+    }
+  ]
+}
